@@ -1,4 +1,5 @@
 ЗАВДАННЯ 1. Використання оператора розгалуження if.
 1. Скласти блок-схему алгоритму розв’язування задачі.
-2. Проаналізувати достовірність отриманих результатів обчислень.<img width="438" height="77" alt="image" src="https://github.com/user-attachments/assets/18de5cd6-0fa2-446f-8b35-41f7c91ecf74" />
+2. Проаналізувати достовірність отриманих результатів обчислень.
+3. <img width="438" height="77" alt="image" src="https://github.com/user-attachments/assets/18de5cd6-0fa2-446f-8b35-41f7c91ecf74" />
 
