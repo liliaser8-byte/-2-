@@ -2,4 +2,5 @@
 1. Скласти блок-схему алгоритму розв’язування задачі.
 2. Проаналізувати достовірність отриманих результатів обчислень.
 3. <img width="438" height="77" alt="image" src="https://github.com/user-attachments/assets/18de5cd6-0fa2-446f-8b35-41f7c91ecf74" />
+<img width="486" height="605" alt="image" src="https://github.com/user-attachments/assets/ba8d5d9e-9d80-42bf-9ef3-b9aeba2689e9" />
 
