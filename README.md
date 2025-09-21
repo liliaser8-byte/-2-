@@ -13,3 +13,5 @@
 <img width="438" height="77" alt="image" src="https://github.com/user-attachments/assets/18de5cd6-0fa2-446f-8b35-41f7c91ecf74" />
 <img width="486" height="605" alt="image" src="https://github.com/user-attachments/assets/ba8d5d9e-9d80-42bf-9ef3-b9aeba2689e9" />
 
+<img width="773" height="100" alt="image" src="https://github.com/user-attachments/assets/b0bb968f-11ac-4247-8433-d9e3b3a16c4c" />
+13.Скласти програму визначення пункту призначення за номером поїзда.
