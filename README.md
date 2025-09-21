@@ -6,10 +6,10 @@
 
 Користувач вводить значення 𝑥
 Програма перевіряє умову:
-Якщо 
-𝑥<−1, тоді обчислюється 𝑦=sin^3(𝑥)⋅cos^2(𝑥)
+Якщо 𝑥<−1, тоді обчислюється 𝑦=sin^3(𝑥)⋅cos^2(𝑥)
 Якщо 𝑥≥−1, тоді обчислюється 𝑦=ln(∣𝑥+2∣)⋅𝑒^(𝑥+1)
 Виводить результат 𝑦.
-4. <img width="438" height="77" alt="image" src="https://github.com/user-attachments/assets/18de5cd6-0fa2-446f-8b35-41f7c91ecf74" />
+
+<img width="438" height="77" alt="image" src="https://github.com/user-attachments/assets/18de5cd6-0fa2-446f-8b35-41f7c91ecf74" />
 <img width="486" height="605" alt="image" src="https://github.com/user-attachments/assets/ba8d5d9e-9d80-42bf-9ef3-b9aeba2689e9" />
 
